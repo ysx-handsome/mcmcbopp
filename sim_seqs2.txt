@@ -1,0 +1,1353 @@
+nohup: ignoring input
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=122
+#seq=20/100, #event=113
+#seq=30/100, #event=115
+#seq=40/100, #event=104
+#seq=50/100, #event=110
+#seq=60/100, #event=122
+#seq=70/100, #event=97
+#seq=80/100, #event=101
+#seq=90/100, #event=115
+#seq=100/100, #event=109
+01 Simple exponential kernel
+mu is [0.6 0.6 0.6]
+#seq=10/100, #event=107
+#seq=20/100, #event=125
+#seq=30/100, #event=138
+#seq=40/100, #event=136
+#seq=50/100, #event=140
+#seq=60/100, #event=155
+#seq=70/100, #event=153
+#seq=80/100, #event=117
+#seq=90/100, #event=137
+#seq=100/100, #event=126
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=104
+#seq=20/100, #event=116
+#seq=30/100, #event=104
+#seq=40/100, #event=123
+#seq=50/100, #event=102
+#seq=60/100, #event=130
+#seq=70/100, #event=106
+#seq=80/100, #event=136
+#seq=90/100, #event=115
+#seq=100/100, #event=101
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=117
+#seq=20/100, #event=131
+#seq=30/100, #event=125
+#seq=40/100, #event=132
+#seq=50/100, #event=113
+#seq=60/100, #event=111
+#seq=70/100, #event=102
+#seq=80/100, #event=112
+#seq=90/100, #event=108
+#seq=100/100, #event=110
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=127
+#seq=20/100, #event=109
+#seq=30/100, #event=101
+#seq=40/100, #event=105
+#seq=50/100, #event=103
+#seq=60/100, #event=106
+#seq=70/100, #event=117
+#seq=80/100, #event=118
+#seq=90/100, #event=110
+#seq=100/100, #event=116
+01 Simple exponential kernel
+mu is [0.8 0.8 0.8]
+#seq=10/100, #event=111
+#seq=20/100, #event=126
+#seq=30/100, #event=107
+#seq=40/100, #event=114
+#seq=50/100, #event=119
+#seq=60/100, #event=109
+#seq=70/100, #event=128
+#seq=80/100, #event=122
+#seq=90/100, #event=128
+#seq=100/100, #event=122
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=106
+#seq=20/100, #event=113
+#seq=30/100, #event=122
+#seq=40/100, #event=109
+#seq=50/100, #event=117
+#seq=60/100, #event=118
+#seq=70/100, #event=115
+#seq=80/100, #event=123
+#seq=90/100, #event=110
+#seq=100/100, #event=97
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=147
+#seq=20/100, #event=135
+#seq=30/100, #event=119
+#seq=40/100, #event=127
+#seq=50/100, #event=110
+#seq=60/100, #event=127
+#seq=70/100, #event=140
+#seq=80/100, #event=124
+#seq=90/100, #event=147
+#seq=100/100, #event=141
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=114
+#seq=20/100, #event=118
+#seq=30/100, #event=114
+#seq=40/100, #event=116
+#seq=50/100, #event=132
+#seq=60/100, #event=104
+#seq=70/100, #event=117
+#seq=80/100, #event=111
+#seq=90/100, #event=104
+#seq=100/100, #event=102
+01 Simple exponential kernel
+mu is [1. 1. 1.]
+#seq=10/100, #event=187
+#seq=20/100, #event=142
+#seq=30/100, #event=145
+#seq=40/100, #event=140
+#seq=50/100, #event=158
+#seq=60/100, #event=136
+#seq=70/100, #event=155
+#seq=80/100, #event=146
+#seq=90/100, #event=148
+#seq=100/100, #event=143
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=111
+#seq=20/100, #event=140
+#seq=30/100, #event=126
+#seq=40/100, #event=122
+#seq=50/100, #event=114
+#seq=60/100, #event=118
+#seq=70/100, #event=134
+#seq=80/100, #event=113
+#seq=90/100, #event=118
+#seq=100/100, #event=118
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=168
+#seq=20/100, #event=153
+#seq=30/100, #event=175
+#seq=40/100, #event=170
+#seq=50/100, #event=181
+#seq=60/100, #event=139
+#seq=70/100, #event=165
+#seq=80/100, #event=144
+#seq=90/100, #event=153
+#seq=100/100, #event=157
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=121
+#seq=20/100, #event=116
+#seq=30/100, #event=106
+#seq=40/100, #event=128
+#seq=50/100, #event=121
+#seq=60/100, #event=115
+#seq=70/100, #event=112
+#seq=80/100, #event=114
+#seq=90/100, #event=103
+#seq=100/100, #event=107
+01 Simple exponential kernel
+mu is [1.2 1.2 1.2]
+#seq=10/100, #event=182
+#seq=20/100, #event=170
+#seq=30/100, #event=203
+#seq=40/100, #event=193
+#seq=50/100, #event=171
+#seq=60/100, #event=181
+#seq=70/100, #event=156
+#seq=80/100, #event=177
+#seq=90/100, #event=175
+#seq=100/100, #event=196
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=103
+#seq=20/100, #event=107
+#seq=30/100, #event=121
+#seq=40/100, #event=105
+#seq=50/100, #event=103
+#seq=60/100, #event=102
+#seq=70/100, #event=106
+#seq=80/100, #event=123
+#seq=90/100, #event=119
+#seq=100/100, #event=102
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=218
+#seq=20/100, #event=192
+#seq=30/100, #event=199
+#seq=40/100, #event=215
+#seq=50/100, #event=198
+#seq=60/100, #event=217
+#seq=70/100, #event=179
+#seq=80/100, #event=181
+#seq=90/100, #event=180
+#seq=100/100, #event=193
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=134
+#seq=20/100, #event=129
+#seq=30/100, #event=119
+#seq=40/100, #event=126
+#seq=50/100, #event=109
+#seq=60/100, #event=112
+#seq=70/100, #event=133
+#seq=80/100, #event=104
+#seq=90/100, #event=140
+#seq=100/100, #event=107
+01 Simple exponential kernel
+mu is [1.4 1.4 1.4]
+#seq=10/100, #event=208
+#seq=20/100, #event=222
+#seq=30/100, #event=229
+#seq=40/100, #event=214
+#seq=50/100, #event=190
+#seq=60/100, #event=196
+#seq=70/100, #event=227
+#seq=80/100, #event=201
+#seq=90/100, #event=223
+#seq=100/100, #event=222
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=125
+#seq=20/100, #event=121
+#seq=30/100, #event=160
+#seq=40/100, #event=132
+#seq=50/100, #event=105
+#seq=60/100, #event=114
+#seq=70/100, #event=107
+#seq=80/100, #event=122
+#seq=90/100, #event=108
+#seq=100/100, #event=146
+01 Simple exponential kernel
+mu is [1.5 1.5 1.5]
+#seq=10/100, #event=213
+#seq=20/100, #event=227
+#seq=30/100, #event=224
+#seq=40/100, #event=197
+#seq=50/100, #event=236
+#seq=60/100, #event=223
+#seq=70/100, #event=210
+#seq=80/100, #event=224
+#seq=90/100, #event=240
+#seq=100/100, #event=224
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=119
+#seq=20/100, #event=104
+#seq=30/100, #event=132
+#seq=40/100, #event=116
+#seq=50/100, #event=117
+#seq=60/100, #event=103
+#seq=70/100, #event=109
+#seq=80/100, #event=122
+#seq=90/100, #event=139
+#seq=100/100, #event=101
+01 Simple exponential kernel
+mu is [0.6 0.6 0.6]
+#seq=10/100, #event=113
+#seq=20/100, #event=126
+#seq=30/100, #event=114
+#seq=40/100, #event=108
+#seq=50/100, #event=105
+#seq=60/100, #event=151
+#seq=70/100, #event=113
+#seq=80/100, #event=111
+#seq=90/100, #event=132
+#seq=100/100, #event=105
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=101
+#seq=20/100, #event=104
+#seq=30/100, #event=113
+#seq=40/100, #event=153
+#seq=50/100, #event=126
+#seq=60/100, #event=103
+#seq=70/100, #event=132
+#seq=80/100, #event=138
+#seq=90/100, #event=107
+#seq=100/100, #event=113
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=109
+#seq=20/100, #event=120
+#seq=30/100, #event=122
+#seq=40/100, #event=103
+#seq=50/100, #event=118
+#seq=60/100, #event=118
+#seq=70/100, #event=103
+#seq=80/100, #event=143
+#seq=90/100, #event=119
+#seq=100/100, #event=105
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=106
+#seq=20/100, #event=103
+#seq=30/100, #event=116
+#seq=40/100, #event=125
+#seq=50/100, #event=113
+#seq=60/100, #event=114
+#seq=70/100, #event=112
+#seq=80/100, #event=143
+#seq=90/100, #event=123
+#seq=100/100, #event=103
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=146
+#seq=20/100, #event=143
+#seq=30/100, #event=124
+#seq=40/100, #event=111
+#seq=50/100, #event=135
+#seq=60/100, #event=128
+#seq=70/100, #event=148
+#seq=80/100, #event=133
+#seq=90/100, #event=121
+#seq=100/100, #event=132
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=112
+#seq=20/100, #event=106
+#seq=30/100, #event=111
+#seq=40/100, #event=113
+#seq=50/100, #event=118
+#seq=60/100, #event=110
+#seq=70/100, #event=109
+#seq=80/100, #event=109
+#seq=90/100, #event=109
+#seq=100/100, #event=109
+01 Simple exponential kernel
+mu is [0.8 0.8 0.8]
+#seq=10/100, #event=116
+#seq=20/100, #event=143
+#seq=30/100, #event=135
+#seq=40/100, #event=122
+#seq=50/100, #event=134
+#seq=60/100, #event=115
+#seq=70/100, #event=122
+#seq=80/100, #event=116
+#seq=90/100, #event=134
+#seq=100/100, #event=115
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=180
+#seq=20/100, #event=173
+#seq=30/100, #event=154
+#seq=40/100, #event=172
+#seq=50/100, #event=175
+#seq=60/100, #event=172
+#seq=70/100, #event=159
+#seq=80/100, #event=167
+#seq=90/100, #event=170
+#seq=100/100, #event=144
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=111
+#seq=20/100, #event=115
+#seq=30/100, #event=115
+#seq=40/100, #event=119
+#seq=50/100, #event=117
+#seq=60/100, #event=105
+#seq=70/100, #event=127
+#seq=80/100, #event=115
+#seq=90/100, #event=128
+#seq=100/100, #event=118
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=146
+#seq=20/100, #event=161
+#seq=30/100, #event=135
+#seq=40/100, #event=143
+#seq=50/100, #event=146
+#seq=60/100, #event=138
+#seq=70/100, #event=139
+#seq=80/100, #event=156
+#seq=90/100, #event=135
+#seq=100/100, #event=151
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=192
+#seq=20/100, #event=199
+#seq=30/100, #event=190
+#seq=40/100, #event=185
+#seq=50/100, #event=187
+#seq=60/100, #event=183
+#seq=70/100, #event=192
+#seq=80/100, #event=193
+#seq=90/100, #event=182
+#seq=100/100, #event=195
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=139
+#seq=20/100, #event=110
+#seq=30/100, #event=114
+#seq=40/100, #event=116
+#seq=50/100, #event=101
+#seq=60/100, #event=115
+#seq=70/100, #event=116
+#seq=80/100, #event=102
+#seq=90/100, #event=108
+#seq=100/100, #event=108
+01 Simple exponential kernel
+mu is [1. 1. 1.]
+#seq=10/100, #event=152
+#seq=20/100, #event=129
+#seq=30/100, #event=136
+#seq=40/100, #event=151
+#seq=50/100, #event=167
+#seq=60/100, #event=150
+#seq=70/100, #event=148
+#seq=80/100, #event=152
+#seq=90/100, #event=149
+#seq=100/100, #event=149
+01 Simple exponential kernel
+mu is [1.5 1.5 1.5]
+#seq=10/100, #event=227
+#seq=20/100, #event=219
+#seq=30/100, #event=237
+#seq=40/100, #event=233
+#seq=50/100, #event=229
+#seq=60/100, #event=244
+#seq=70/100, #event=214
+#seq=80/100, #event=222
+#seq=90/100, #event=224
+#seq=100/100, #event=200
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=108
+#seq=20/100, #event=109
+#seq=30/100, #event=107
+#seq=40/100, #event=85
+#seq=50/100, #event=103
+#seq=60/100, #event=109
+#seq=70/100, #event=105
+#seq=80/100, #event=124
+#seq=90/100, #event=105
+#seq=100/100, #event=118
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=158
+#seq=20/100, #event=158
+#seq=30/100, #event=157
+#seq=40/100, #event=162
+#seq=50/100, #event=166
+#seq=60/100, #event=157
+#seq=70/100, #event=147
+#seq=80/100, #event=164
+#seq=90/100, #event=175
+#seq=100/100, #event=168
+01 Simple exponential kernel
+mu is [1.7 1.7 1.7]
+#seq=10/100, #event=270
+#seq=20/100, #event=274
+#seq=30/100, #event=279
+#seq=40/100, #event=255
+#seq=50/100, #event=275
+#seq=60/100, #event=246
+#seq=70/100, #event=245
+#seq=80/100, #event=272
+#seq=90/100, #event=257
+#seq=100/100, #event=260
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=109
+#seq=20/100, #event=127
+#seq=30/100, #event=112
+#seq=40/100, #event=105
+#seq=50/100, #event=109
+#seq=60/100, #event=110
+#seq=70/100, #event=120
+#seq=80/100, #event=102
+#seq=90/100, #event=113
+#seq=100/100, #event=143
+01 Simple exponential kernel
+mu is [1.2 1.2 1.2]
+#seq=10/100, #event=197
+#seq=20/100, #event=186
+#seq=30/100, #event=198
+#seq=40/100, #event=147
+#seq=50/100, #event=197
+#seq=60/100, #event=159
+#seq=70/100, #event=184
+#seq=80/100, #event=175
+#seq=90/100, #event=182
+#seq=100/100, #event=183
+01 Simple exponential kernel
+mu is [1.9 1.9 1.9]
+#seq=10/100, #event=296
+#seq=20/100, #event=306
+#seq=30/100, #event=275
+#seq=40/100, #event=285
+#seq=50/100, #event=278
+#seq=60/100, #event=275
+#seq=70/100, #event=263
+#seq=80/100, #event=292
+#seq=90/100, #event=279
+#seq=100/100, #event=283
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=103
+#seq=20/100, #event=109
+#seq=30/100, #event=104
+#seq=40/100, #event=117
+#seq=50/100, #event=107
+#seq=60/100, #event=138
+#seq=70/100, #event=114
+#seq=80/100, #event=105
+#seq=90/100, #event=108
+#seq=100/100, #event=120
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=178
+#seq=20/100, #event=194
+#seq=30/100, #event=203
+#seq=40/100, #event=190
+#seq=50/100, #event=205
+#seq=60/100, #event=169
+#seq=70/100, #event=178
+#seq=80/100, #event=216
+#seq=90/100, #event=187
+#seq=100/100, #event=194
+01 Simple exponential kernel
+mu is [2.1 2.1 2.1]
+#seq=10/100, #event=303
+#seq=20/100, #event=306
+#seq=30/100, #event=288
+#seq=40/100, #event=303
+#seq=50/100, #event=316
+#seq=60/100, #event=349
+#seq=70/100, #event=324
+#seq=80/100, #event=308
+#seq=90/100, #event=309
+#seq=100/100, #event=287
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=105
+#seq=20/100, #event=107
+#seq=30/100, #event=116
+#seq=40/100, #event=122
+#seq=50/100, #event=102
+#seq=60/100, #event=128
+#seq=70/100, #event=128
+#seq=80/100, #event=126
+#seq=90/100, #event=112
+#seq=100/100, #event=98
+01 Simple exponential kernel
+mu is [1.4 1.4 1.4]
+#seq=10/100, #event=226
+#seq=20/100, #event=194
+#seq=30/100, #event=207
+#seq=40/100, #event=212
+#seq=50/100, #event=230
+#seq=60/100, #event=190
+#seq=70/100, #event=234
+#seq=80/100, #event=215
+#seq=90/100, #event=239
+#seq=100/100, #event=207
+01 Simple exponential kernel
+mu is [2.3 2.3 2.3]
+#seq=10/100, #event=321
+#seq=20/100, #event=353
+#seq=30/100, #event=333
+#seq=40/100, #event=343
+#seq=50/100, #event=337
+#seq=60/100, #event=334
+#seq=70/100, #event=324
+#seq=80/100, #event=349
+#seq=90/100, #event=332
+#seq=100/100, #event=342
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=123
+#seq=20/100, #event=110
+#seq=30/100, #event=132
+#seq=40/100, #event=111
+#seq=50/100, #event=123
+#seq=60/100, #event=104
+#seq=70/100, #event=91
+#seq=80/100, #event=111
+#seq=90/100, #event=111
+#seq=100/100, #event=107
+01 Simple exponential kernel
+mu is [1.5 1.5 1.5]
+#seq=10/100, #event=216
+#seq=20/100, #event=218
+#seq=30/100, #event=219
+#seq=40/100, #event=221
+#seq=50/100, #event=240
+#seq=60/100, #event=210
+#seq=70/100, #event=238
+#seq=80/100, #event=234
+#seq=90/100, #event=239
+#seq=100/100, #event=224
+01 Simple exponential kernel
+mu is [2.5 2.5 2.5]
+#seq=10/100, #event=383
+#seq=20/100, #event=332
+#seq=30/100, #event=391
+#seq=40/100, #event=384
+#seq=50/100, #event=431
+#seq=60/100, #event=368
+#seq=70/100, #event=401
+#seq=80/100, #event=375
+#seq=90/100, #event=372
+#seq=100/100, #event=351
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=143
+#seq=20/100, #event=110
+#seq=30/100, #event=103
+#seq=40/100, #event=114
+#seq=50/100, #event=115
+#seq=60/100, #event=119
+#seq=70/100, #event=108
+#seq=80/100, #event=106
+#seq=90/100, #event=92
+#seq=100/100, #event=110
+01 Simple exponential kernel
+mu is [0.6 0.6 0.6]
+#seq=10/100, #event=126
+#seq=20/100, #event=123
+#seq=30/100, #event=127
+#seq=40/100, #event=135
+#seq=50/100, #event=103
+#seq=60/100, #event=142
+#seq=70/100, #event=104
+#seq=80/100, #event=145
+#seq=90/100, #event=136
+#seq=100/100, #event=120
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=110
+#seq=20/100, #event=106
+#seq=30/100, #event=104
+#seq=40/100, #event=101
+#seq=50/100, #event=101
+#seq=60/100, #event=137
+#seq=70/100, #event=145
+#seq=80/100, #event=110
+#seq=90/100, #event=116
+#seq=100/100, #event=138
+01 Simple exponential kernel
+mu is [0.8 0.8 0.8]
+#seq=10/100, #event=120
+#seq=20/100, #event=125
+#seq=30/100, #event=125
+#seq=40/100, #event=129
+#seq=50/100, #event=159
+#seq=60/100, #event=110
+#seq=70/100, #event=110
+#seq=80/100, #event=127
+#seq=90/100, #event=104
+#seq=100/100, #event=149
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=107
+#seq=20/100, #event=111
+#seq=30/100, #event=94
+#seq=40/100, #event=101
+#seq=50/100, #event=110
+#seq=60/100, #event=110
+#seq=70/100, #event=69
+#seq=80/100, #event=111
+#seq=90/100, #event=109
+#seq=100/100, #event=87
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=105
+#seq=20/100, #event=115
+#seq=30/100, #event=118
+#seq=40/100, #event=110
+#seq=50/100, #event=112
+#seq=60/100, #event=156
+#seq=70/100, #event=103
+#seq=80/100, #event=152
+#seq=90/100, #event=154
+#seq=100/100, #event=114
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=143
+#seq=20/100, #event=141
+#seq=30/100, #event=136
+#seq=40/100, #event=126
+#seq=50/100, #event=179
+#seq=60/100, #event=131
+#seq=70/100, #event=133
+#seq=80/100, #event=142
+#seq=90/100, #event=151
+#seq=100/100, #event=117
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=164
+#seq=20/100, #event=169
+#seq=30/100, #event=164
+#seq=40/100, #event=145
+#seq=50/100, #event=156
+#seq=60/100, #event=181
+#seq=70/100, #event=174
+#seq=80/100, #event=165
+#seq=90/100, #event=163
+#seq=100/100, #event=160
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=112
+#seq=20/100, #event=120
+#seq=30/100, #event=113
+#seq=40/100, #event=131
+#seq=50/100, #event=117
+#seq=60/100, #event=118
+#seq=70/100, #event=111
+#seq=80/100, #event=102
+#seq=90/100, #event=119
+#seq=100/100, #event=125
+01 Simple exponential kernel
+mu is [0.8 0.8 0.8]
+#seq=10/100, #event=116
+#seq=20/100, #event=126
+#seq=30/100, #event=121
+#seq=40/100, #event=141
+#seq=50/100, #event=117
+#seq=60/100, #event=120
+#seq=70/100, #event=122
+#seq=80/100, #event=120
+#seq=90/100, #event=129
+#seq=100/100, #event=127
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=163
+#seq=20/100, #event=156
+#seq=30/100, #event=181
+#seq=40/100, #event=159
+#seq=50/100, #event=149
+#seq=60/100, #event=165
+#seq=70/100, #event=182
+#seq=80/100, #event=176
+#seq=90/100, #event=154
+#seq=100/100, #event=149
+01 Simple exponential kernel
+mu is [1.4 1.4 1.4]
+#seq=10/100, #event=203
+#seq=20/100, #event=223
+#seq=30/100, #event=178
+#seq=40/100, #event=184
+#seq=50/100, #event=197
+#seq=60/100, #event=204
+#seq=70/100, #event=197
+#seq=80/100, #event=210
+#seq=90/100, #event=208
+#seq=100/100, #event=203
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=117
+#seq=20/100, #event=112
+#seq=30/100, #event=106
+#seq=40/100, #event=126
+#seq=50/100, #event=102
+#seq=60/100, #event=119
+#seq=70/100, #event=108
+#seq=80/100, #event=111
+#seq=90/100, #event=104
+#seq=100/100, #event=110
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=147
+#seq=20/100, #event=145
+#seq=30/100, #event=116
+#seq=40/100, #event=122
+#seq=50/100, #event=146
+#seq=60/100, #event=153
+#seq=70/100, #event=127
+#seq=80/100, #event=128
+#seq=90/100, #event=142
+#seq=100/100, #event=129
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=198
+#seq=20/100, #event=190
+#seq=30/100, #event=181
+#seq=40/100, #event=178
+#seq=50/100, #event=199
+#seq=60/100, #event=173
+#seq=70/100, #event=171
+#seq=80/100, #event=204
+#seq=90/100, #event=191
+#seq=100/100, #event=180
+01 Simple exponential kernel
+mu is [1.7 1.7 1.7]
+#seq=10/100, #event=274
+#seq=20/100, #event=264
+#seq=30/100, #event=266
+#seq=40/100, #event=290
+#seq=50/100, #event=272
+#seq=60/100, #event=293
+#seq=70/100, #event=232
+#seq=80/100, #event=263
+#seq=90/100, #event=261
+#seq=100/100, #event=297
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=127
+#seq=20/100, #event=110
+#seq=30/100, #event=109
+#seq=40/100, #event=110
+#seq=50/100, #event=106
+#seq=60/100, #event=102
+#seq=70/100, #event=108
+#seq=80/100, #event=109
+#seq=90/100, #event=107
+#seq=100/100, #event=102
+01 Simple exponential kernel
+mu is [1. 1. 1.]
+#seq=10/100, #event=165
+#seq=20/100, #event=137
+#seq=30/100, #event=155
+#seq=40/100, #event=152
+#seq=50/100, #event=143
+#seq=60/100, #event=156
+#seq=70/100, #event=171
+#seq=80/100, #event=158
+#seq=90/100, #event=137
+#seq=100/100, #event=154
+01 Simple exponential kernel
+mu is [1.5 1.5 1.5]
+#seq=10/100, #event=241
+#seq=20/100, #event=216
+#seq=30/100, #event=249
+#seq=40/100, #event=222
+#seq=50/100, #event=245
+#seq=60/100, #event=237
+#seq=70/100, #event=204
+#seq=80/100, #event=228
+#seq=90/100, #event=228
+#seq=100/100, #event=228
+01 Simple exponential kernel
+mu is [2. 2. 2.]
+#seq=10/100, #event=299
+#seq=20/100, #event=301
+#seq=30/100, #event=272
+#seq=40/100, #event=298
+#seq=50/100, #event=319
+#seq=60/100, #event=293
+#seq=70/100, #event=295
+#seq=80/100, #event=320
+#seq=90/100, #event=308
+#seq=100/100, #event=298
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=102
+#seq=20/100, #event=119
+#seq=30/100, #event=102
+#seq=40/100, #event=116
+#seq=50/100, #event=118
+#seq=60/100, #event=121
+#seq=70/100, #event=110
+#seq=80/100, #event=140
+#seq=90/100, #event=120
+#seq=100/100, #event=131
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=156
+#seq=20/100, #event=157
+#seq=30/100, #event=167
+#seq=40/100, #event=153
+#seq=50/100, #event=178
+#seq=60/100, #event=164
+#seq=70/100, #event=173
+#seq=80/100, #event=167
+#seq=90/100, #event=143
+#seq=100/100, #event=196
+01 Simple exponential kernel
+mu is [1.7 1.7 1.7]
+#seq=10/100, #event=246
+#seq=20/100, #event=263
+#seq=30/100, #event=250
+#seq=40/100, #event=246
+#seq=50/100, #event=238
+#seq=60/100, #event=263
+#seq=70/100, #event=256
+#seq=80/100, #event=266
+#seq=90/100, #event=262
+#seq=100/100, #event=266
+01 Simple exponential kernel
+mu is [2.3 2.3 2.3]
+#seq=10/100, #event=352
+#seq=20/100, #event=358
+#seq=30/100, #event=379
+#seq=40/100, #event=317
+#seq=50/100, #event=357
+#seq=60/100, #event=375
+#seq=70/100, #event=360
+#seq=80/100, #event=330
+#seq=90/100, #event=335
+#seq=100/100, #event=360
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=106
+#seq=20/100, #event=103
+#seq=30/100, #event=105
+#seq=40/100, #event=113
+#seq=50/100, #event=110
+#seq=60/100, #event=96
+#seq=70/100, #event=104
+#seq=80/100, #event=109
+#seq=90/100, #event=101
+#seq=100/100, #event=107
+01 Simple exponential kernel
+mu is [1.2 1.2 1.2]
+#seq=10/100, #event=163
+#seq=20/100, #event=188
+#seq=30/100, #event=164
+#seq=40/100, #event=169
+#seq=50/100, #event=181
+#seq=60/100, #event=186
+#seq=70/100, #event=184
+#seq=80/100, #event=170
+#seq=90/100, #event=170
+#seq=100/100, #event=192
+01 Simple exponential kernel
+mu is [1.9 1.9 1.9]
+#seq=10/100, #event=250
+#seq=20/100, #event=286
+#seq=30/100, #event=288
+#seq=40/100, #event=246
+#seq=50/100, #event=303
+#seq=60/100, #event=276
+#seq=70/100, #event=285
+#seq=80/100, #event=305
+#seq=90/100, #event=287
+#seq=100/100, #event=295
+01 Simple exponential kernel
+mu is [2.6 2.6 2.6]
+#seq=10/100, #event=389
+#seq=20/100, #event=393
+#seq=30/100, #event=363
+#seq=40/100, #event=373
+#seq=50/100, #event=369
+#seq=60/100, #event=413
+#seq=70/100, #event=378
+#seq=80/100, #event=392
+#seq=90/100, #event=418
+#seq=100/100, #event=374
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=125
+#seq=20/100, #event=104
+#seq=30/100, #event=101
+#seq=40/100, #event=106
+#seq=50/100, #event=113
+#seq=60/100, #event=113
+#seq=70/100, #event=96
+#seq=80/100, #event=109
+#seq=90/100, #event=103
+#seq=100/100, #event=116
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=180
+#seq=20/100, #event=202
+#seq=30/100, #event=181
+#seq=40/100, #event=193
+#seq=50/100, #event=180
+#seq=60/100, #event=185
+#seq=70/100, #event=187
+#seq=80/100, #event=183
+#seq=90/100, #event=189
+#seq=100/100, #event=187
+01 Simple exponential kernel
+mu is [2.1 2.1 2.1]
+#seq=10/100, #event=286
+#seq=20/100, #event=336
+#seq=30/100, #event=284
+#seq=40/100, #event=329
+#seq=50/100, #event=301
+#seq=60/100, #event=344
+#seq=70/100, #event=313
+#seq=80/100, #event=335
+#seq=90/100, #event=289
+#seq=100/100, #event=280
+01 Simple exponential kernel
+mu is [2.9 2.9 2.9]
+#seq=10/100, #event=430
+#seq=20/100, #event=435
+#seq=30/100, #event=444
+#seq=40/100, #event=438
+#seq=50/100, #event=412
+#seq=60/100, #event=425
+#seq=70/100, #event=465
+#seq=80/100, #event=434
+#seq=90/100, #event=399
+#seq=100/100, #event=434
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=104
+#seq=20/100, #event=125
+#seq=30/100, #event=103
+#seq=40/100, #event=113
+#seq=50/100, #event=115
+#seq=60/100, #event=103
+#seq=70/100, #event=114
+#seq=80/100, #event=114
+#seq=90/100, #event=120
+#seq=100/100, #event=101
+01 Simple exponential kernel
+mu is [1.4 1.4 1.4]
+#seq=10/100, #event=178
+#seq=20/100, #event=224
+#seq=30/100, #event=218
+#seq=40/100, #event=213
+#seq=50/100, #event=208
+#seq=60/100, #event=204
+#seq=70/100, #event=223
+#seq=80/100, #event=196
+#seq=90/100, #event=202
+#seq=100/100, #event=216
+01 Simple exponential kernel
+mu is [2.3 2.3 2.3]
+#seq=10/100, #event=387
+#seq=20/100, #event=332
+#seq=30/100, #event=363
+#seq=40/100, #event=354
+#seq=50/100, #event=352
+#seq=60/100, #event=368
+#seq=70/100, #event=324
+#seq=80/100, #event=377
+#seq=90/100, #event=399
+#seq=100/100, #event=359
+01 Simple exponential kernel
+mu is [3.2 3.2 3.2]
+#seq=10/100, #event=441
+#seq=20/100, #event=461
+#seq=30/100, #event=465
+#seq=40/100, #event=470
+#seq=50/100, #event=527
+#seq=60/100, #event=483
+#seq=70/100, #event=482
+#seq=80/100, #event=493
+#seq=90/100, #event=449
+#seq=100/100, #event=480
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=109
+#seq=20/100, #event=121
+#seq=30/100, #event=117
+#seq=40/100, #event=114
+#seq=50/100, #event=114
+#seq=60/100, #event=117
+#seq=70/100, #event=115
+#seq=80/100, #event=134
+#seq=90/100, #event=129
+#seq=100/100, #event=127
+01 Simple exponential kernel
+mu is [1.5 1.5 1.5]
+#seq=10/100, #event=225
+#seq=20/100, #event=236
+#seq=30/100, #event=238
+#seq=40/100, #event=227
+#seq=50/100, #event=223
+#seq=60/100, #event=209
+#seq=70/100, #event=219
+#seq=80/100, #event=232
+#seq=90/100, #event=240
+#seq=100/100, #event=236
+01 Simple exponential kernel
+mu is [2.5 2.5 2.5]
+#seq=10/100, #event=399
+#seq=20/100, #event=352
+#seq=30/100, #event=360
+#seq=40/100, #event=369
+#seq=50/100, #event=403
+#seq=60/100, #event=356
+#seq=70/100, #event=353
+#seq=80/100, #event=404
+#seq=90/100, #event=354
+#seq=100/100, #event=368
+01 Simple exponential kernel
+mu is [3.5 3.5 3.5]
+#seq=10/100, #event=510
+#seq=20/100, #event=555
+#seq=30/100, #event=472
+#seq=40/100, #event=572
+#seq=50/100, #event=519
+#seq=60/100, #event=529
+#seq=70/100, #event=548
+#seq=80/100, #event=559
+#seq=90/100, #event=531
+#seq=100/100, #event=542
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=107
+#seq=20/100, #event=115
+#seq=30/100, #event=104
+#seq=40/100, #event=127
+#seq=50/100, #event=101
+#seq=60/100, #event=128
+#seq=70/100, #event=152
+#seq=80/100, #event=112
+#seq=90/100, #event=134
+#seq=100/100, #event=115
+01 Simple exponential kernel
+mu is [0.6 0.6 0.6]
+#seq=10/100, #event=126
+#seq=20/100, #event=138
+#seq=30/100, #event=114
+#seq=40/100, #event=139
+#seq=50/100, #event=128
+#seq=60/100, #event=130
+#seq=70/100, #event=105
+#seq=80/100, #event=128
+#seq=90/100, #event=137
+#seq=100/100, #event=134
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=138
+#seq=20/100, #event=108
+#seq=30/100, #event=108
+#seq=40/100, #event=104
+#seq=50/100, #event=132
+#seq=60/100, #event=125
+#seq=70/100, #event=126
+#seq=80/100, #event=106
+#seq=90/100, #event=134
+#seq=100/100, #event=134
+01 Simple exponential kernel
+mu is [0.8 0.8 0.8]
+#seq=10/100, #event=125
+#seq=20/100, #event=120
+#seq=30/100, #event=101
+#seq=40/100, #event=114
+#seq=50/100, #event=111
+#seq=60/100, #event=107
+#seq=70/100, #event=110
+#seq=80/100, #event=118
+#seq=90/100, #event=111
+#seq=100/100, #event=103
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=143
+#seq=20/100, #event=148
+#seq=30/100, #event=147
+#seq=40/100, #event=135
+#seq=50/100, #event=129
+#seq=60/100, #event=152
+#seq=70/100, #event=146
+#seq=80/100, #event=137
+#seq=90/100, #event=137
+#seq=100/100, #event=131
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=112
+#seq=20/100, #event=123
+#seq=30/100, #event=116
+#seq=40/100, #event=120
+#seq=50/100, #event=127
+#seq=60/100, #event=126
+#seq=70/100, #event=132
+#seq=80/100, #event=143
+#seq=90/100, #event=121
+#seq=100/100, #event=101
+01 Simple exponential kernel
+mu is [0.7 0.7 0.7]
+#seq=10/100, #event=110
+#seq=20/100, #event=116
+#seq=30/100, #event=141
+#seq=40/100, #event=101
+#seq=50/100, #event=118
+#seq=60/100, #event=111
+#seq=70/100, #event=130
+#seq=80/100, #event=105
+#seq=90/100, #event=105
+#seq=100/100, #event=103
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=127
+#seq=20/100, #event=131
+#seq=30/100, #event=167
+#seq=40/100, #event=143
+#seq=50/100, #event=138
+#seq=60/100, #event=131
+#seq=70/100, #event=164
+#seq=80/100, #event=123
+#seq=90/100, #event=121
+#seq=100/100, #event=140
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=168
+#seq=20/100, #event=154
+#seq=30/100, #event=171
+#seq=40/100, #event=161
+#seq=50/100, #event=172
+#seq=60/100, #event=156
+#seq=70/100, #event=169
+#seq=80/100, #event=155
+#seq=90/100, #event=148
+#seq=100/100, #event=157
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=170
+#seq=20/100, #event=192
+#seq=30/100, #event=210
+#seq=40/100, #event=211
+#seq=50/100, #event=196
+#seq=60/100, #event=199
+#seq=70/100, #event=206
+#seq=80/100, #event=186
+#seq=90/100, #event=225
+#seq=100/100, #event=184
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=112
+#seq=20/100, #event=101
+#seq=30/100, #event=107
+#seq=40/100, #event=109
+#seq=50/100, #event=83
+#seq=60/100, #event=102
+#seq=70/100, #event=103
+#seq=80/100, #event=119
+#seq=90/100, #event=117
+#seq=100/100, #event=103
+01 Simple exponential kernel
+mu is [0.8 0.8 0.8]
+#seq=10/100, #event=119
+#seq=20/100, #event=117
+#seq=30/100, #event=102
+#seq=40/100, #event=129
+#seq=50/100, #event=139
+#seq=60/100, #event=130
+#seq=70/100, #event=109
+#seq=80/100, #event=134
+#seq=90/100, #event=116
+#seq=100/100, #event=111
+01 Simple exponential kernel
+mu is [1.1 1.1 1.1]
+#seq=10/100, #event=144
+#seq=20/100, #event=164
+#seq=30/100, #event=182
+#seq=40/100, #event=163
+#seq=50/100, #event=168
+#seq=60/100, #event=166
+#seq=70/100, #event=167
+#seq=80/100, #event=180
+#seq=90/100, #event=148
+#seq=100/100, #event=158
+01 Simple exponential kernel
+mu is [1.4 1.4 1.4]
+#seq=10/100, #event=213
+#seq=20/100, #event=197
+#seq=30/100, #event=186
+#seq=40/100, #event=209
+#seq=50/100, #event=203
+#seq=60/100, #event=242
+#seq=70/100, #event=200
+#seq=80/100, #event=186
+#seq=90/100, #event=207
+#seq=100/100, #event=192
+01 Simple exponential kernel
+mu is [1.7 1.7 1.7]
+#seq=10/100, #event=256
+#seq=20/100, #event=284
+#seq=30/100, #event=251
+#seq=40/100, #event=227
+#seq=50/100, #event=248
+#seq=60/100, #event=268
+#seq=70/100, #event=254
+#seq=80/100, #event=251
+#seq=90/100, #event=275
+#seq=100/100, #event=279
+saving ------
+01 Simple exponential kernel
+mu is [0.5 0.5 0.5]
+#seq=10/100, #event=110
+#seq=20/100, #event=104
+#seq=30/100, #event=102
+#seq=40/100, #event=103
+#seq=50/100, #event=142
+#seq=60/100, #event=137
+#seq=70/100, #event=136
+#seq=80/100, #event=113
+#seq=90/100, #event=110
+#seq=100/100, #event=130
+01 Simple exponential kernel
+mu is [0.9 0.9 0.9]
+#seq=10/100, #event=133
+#seq=20/100, #event=128
+#seq=30/100, #event=118
+#seq=40/100, #event=121
+#seq=50/100, #event=121
+#seq=60/100, #event=138
+#seq=70/100, #event=131
+#seq=80/100, #event=138
+#seq=90/100, #event=138
+#seq=100/100, #event=126
+01 Simple exponential kernel
+mu is [1.3 1.3 1.3]
+#seq=10/100, #event=201
+#seq=20/100, #event=176
+#seq=30/100, #event=203
+#seq=40/100, #event=217
+#seq=50/100, #event=201
+#seq=60/100, #event=206
+#seq=70/100, #event=212
+#seq=80/100, #event=158
+#seq=90/100, #event=176
+#seq=100/100, #event=201
+01 Simple exponential kernel
+mu is [1.7 1.7 1.7]
+#seq=10/100, #event=252
+#seq=20/100, #event=237
+#seq=30/100, #event=252
+#seq=40/100, #event=275
+#seq=50/100, #event=259
+#seq=60/100, #event=243
+#seq=70/100, #event=266
+#seq=80/100, #event=267
+#seq=90/100, #event=244
+#seq=100/100, #event=249
+01 Simple exponential kernel
+mu is [2.1 2.1 2.1]
+#seq=10/100, #event=323
+#seq=20/100, #event=307
+#seq=30/100, #event=322
+#seq=40/100, #event=299
+#seq=50/100, #event=302
+#seq=60/100, #event=275
+#seq=70/100, #event=323
+#seq=80/100, #event=309
+#seq=90/100, #event=328

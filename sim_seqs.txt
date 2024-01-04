@@ -1,0 +1,176 @@
+nohup: ignoring input
+01 Simple exponential kernel
+#seq=10/100, #event=91
+#seq=20/100, #event=93
+#seq=30/100, #event=79
+#seq=40/100, #event=74
+#seq=50/100, #event=74
+#seq=60/100, #event=88
+#seq=70/100, #event=79
+#seq=80/100, #event=70
+#seq=90/100, #event=68
+#seq=100/100, #event=86
+01 Simple exponential kernel
+#seq=10/100, #event=77
+#seq=20/100, #event=101
+#seq=30/100, #event=98
+#seq=40/100, #event=99
+#seq=50/100, #event=80
+#seq=60/100, #event=92
+#seq=70/100, #event=102
+#seq=80/100, #event=95
+#seq=90/100, #event=103
+#seq=100/100, #event=101
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=77
+#seq=20/100, #event=72
+#seq=30/100, #event=77
+#seq=40/100, #event=87
+#seq=50/100, #event=92
+#seq=60/100, #event=66
+#seq=70/100, #event=75
+#seq=80/100, #event=80
+#seq=90/100, #event=82
+#seq=100/100, #event=73
+01 Simple exponential kernel
+#seq=10/100, #event=104
+#seq=20/100, #event=100
+#seq=30/100, #event=91
+#seq=40/100, #event=115
+#seq=50/100, #event=105
+#seq=60/100, #event=123
+#seq=70/100, #event=101
+#seq=80/100, #event=106
+#seq=90/100, #event=103
+#seq=100/100, #event=99
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=66
+#seq=20/100, #event=88
+#seq=30/100, #event=78
+#seq=40/100, #event=72
+#seq=50/100, #event=74
+#seq=60/100, #event=76
+#seq=70/100, #event=59
+#seq=80/100, #event=78
+#seq=90/100, #event=79
+#seq=100/100, #event=74
+01 Simple exponential kernel
+#seq=10/100, #event=113
+#seq=20/100, #event=110
+#seq=30/100, #event=117
+#seq=40/100, #event=111
+#seq=50/100, #event=128
+#seq=60/100, #event=119
+#seq=70/100, #event=118
+#seq=80/100, #event=126
+#seq=90/100, #event=110
+#seq=100/100, #event=111
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=73
+#seq=20/100, #event=70
+#seq=30/100, #event=88
+#seq=40/100, #event=87
+#seq=50/100, #event=98
+#seq=60/100, #event=104
+#seq=70/100, #event=83
+#seq=80/100, #event=84
+#seq=90/100, #event=88
+#seq=100/100, #event=59
+01 Simple exponential kernel
+#seq=10/100, #event=136
+#seq=20/100, #event=113
+#seq=30/100, #event=130
+#seq=40/100, #event=127
+#seq=50/100, #event=123
+#seq=60/100, #event=137
+#seq=70/100, #event=140
+#seq=80/100, #event=134
+#seq=90/100, #event=148
+#seq=100/100, #event=148
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=86
+#seq=20/100, #event=74
+#seq=30/100, #event=82
+#seq=40/100, #event=62
+#seq=50/100, #event=83
+#seq=60/100, #event=79
+#seq=70/100, #event=79
+#seq=80/100, #event=73
+#seq=90/100, #event=93
+#seq=100/100, #event=78
+01 Simple exponential kernel
+#seq=10/100, #event=150
+#seq=20/100, #event=144
+#seq=30/100, #event=159
+#seq=40/100, #event=135
+#seq=50/100, #event=169
+#seq=60/100, #event=145
+#seq=70/100, #event=165
+#seq=80/100, #event=139
+#seq=90/100, #event=138
+#seq=100/100, #event=163
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=68
+#seq=20/100, #event=96
+#seq=30/100, #event=76
+#seq=40/100, #event=81
+#seq=50/100, #event=73
+#seq=60/100, #event=81
+#seq=70/100, #event=99
+#seq=80/100, #event=91
+#seq=90/100, #event=63
+#seq=100/100, #event=72
+01 Simple exponential kernel
+#seq=10/100, #event=148
+#seq=20/100, #event=177
+#seq=30/100, #event=165
+#seq=40/100, #event=148
+#seq=50/100, #event=191
+#seq=60/100, #event=154
+#seq=70/100, #event=175
+#seq=80/100, #event=185
+#seq=90/100, #event=165
+#seq=100/100, #event=182
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=73
+#seq=20/100, #event=71
+#seq=30/100, #event=81
+#seq=40/100, #event=65
+#seq=50/100, #event=65
+#seq=60/100, #event=67
+#seq=70/100, #event=89
+#seq=80/100, #event=78
+#seq=90/100, #event=84
+#seq=100/100, #event=81
+01 Simple exponential kernel
+#seq=10/100, #event=206
+#seq=20/100, #event=180
+#seq=30/100, #event=195
+#seq=40/100, #event=161
+#seq=50/100, #event=179
+#seq=60/100, #event=192
+#seq=70/100, #event=181
+#seq=80/100, #event=193
+#seq=90/100, #event=166
+#seq=100/100, #event=172
+saving ------
+01 Simple exponential kernel
+#seq=10/100, #event=78
+#seq=20/100, #event=70
+#seq=30/100, #event=74
+#seq=40/100, #event=90
+#seq=50/100, #event=84
+#seq=60/100, #event=82
+#seq=70/100, #event=63
+#seq=80/100, #event=68
+#seq=90/100, #event=67
+#seq=100/100, #event=66
+01 Simple exponential kernel
+#seq=10/100, #event=200
+#seq=20/100, #event=184
